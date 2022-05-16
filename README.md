@@ -1,1 +1,1 @@
-# computer-network-cofee-shop-wi-fi-connection-project
+# computer-network-wi-fi-connection-project
